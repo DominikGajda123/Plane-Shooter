@@ -5,10 +5,6 @@ Kamień Milowy 1 (Termin: 08.05.2026)
 
 Konfiguracja środowiska: SFML 3.1.0
 
-Instrukcja instalacji:
-https://www.youtube.com/watch?v=4k9ba8PIvKU
-Z folderu SFML można usunąć wszystko oprócz include i lib
-
 Logika poruszania się: Implementacja klasy gracza (Player) z obsługą klawiatury (ruch w 8 kierunkach).
 
 System renderowania: Wyświetlanie tła (scrollowanie mapy) oraz modelu samolotu gracza
@@ -16,3 +12,13 @@ System renderowania: Wyświetlanie tła (scrollowanie mapy) oraz modelu samolotu
 Podstawowy system strzelania: Generowanie pocisków po naciśnięciu spacji.
 
 Zarządzanie zasobami: Klasa ładująca tekstury i dźwięki.
+
+__________________________________________________________
+
+Instrukcja instalacji SFML:
+
+https://www.youtube.com/watch?v=4k9ba8PIvKU
+
+Z folderu SFML można usunąć wszystko oprócz include i lib
+
+___________________________________________________________
