@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PlaneShooter.vcxproj" Id="d0010ca2-dbcd-480d-98dc-8d3f67408342" />
+</Solution>
