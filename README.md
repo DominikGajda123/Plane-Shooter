@@ -3,7 +3,10 @@ Programowanie obiektowe 1 - projekt autor Dominik Gajda i Kamil Ruzik
 
 Kamień Milowy 1 (Termin: 08.05.2026)
 
-Konfiguracja środowiska: SFML
+Konfiguracja środowiska: SFML 3.1.0
+
+Instrukcja instalacji:
+https://www.youtube.com/watch?v=4k9ba8PIvKU
 
 Logika poruszania się: Implementacja klasy gracza (Player) z obsługą klawiatury (ruch w 8 kierunkach).
 
