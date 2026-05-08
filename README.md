@@ -7,6 +7,7 @@ Konfiguracja środowiska: SFML 3.1.0
 
 Instrukcja instalacji:
 https://www.youtube.com/watch?v=4k9ba8PIvKU
+Z folderu SFML można usunąć wszystko oprócz include i lib
 
 Logika poruszania się: Implementacja klasy gracza (Player) z obsługą klawiatury (ruch w 8 kierunkach).
 
